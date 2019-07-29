@@ -1,2 +1,3 @@
 # vladimino.github.io
-Personal Website
+
+Personal Website of Volodymyr Bilokur (aka Vlad Bilokur, aka @vladimino)
